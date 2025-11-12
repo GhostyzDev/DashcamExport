@@ -1,0 +1,16 @@
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\FileSavedAlert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\FileSavedAlert.AssemblyInfoInputs.cache
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\FileSavedAlert.AssemblyInfo.cs
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\FileSavedAlert.csproj.CoreCompileInputs.cache
+E:\DashcamExpot\Debug\net8.0\FileSavedAlert.exe
+E:\DashcamExpot\Debug\net8.0\FileSavedAlert.deps.json
+E:\DashcamExpot\Debug\net8.0\FileSavedAlert.runtimeconfig.json
+E:\DashcamExpot\Debug\net8.0\FileSavedAlert.dll
+E:\DashcamExpot\Debug\net8.0\FileSavedAlert.pdb
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\FileSavedAlert.csproj.AssemblyReference.cache
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\FileSave.58EB2B3D.Up2Date
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\FileSavedAlert.dll
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\refint\FileSavedAlert.dll
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\FileSavedAlert.pdb
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\FileSavedAlert.genruntimeconfig.cache
+C:\Users\Ghostyz\source\repos\FileSavedAlert\FileSavedAlert\obj\Debug\net8.0\ref\FileSavedAlert.dll
